@@ -1,3 +1,9 @@
+/*
+added from lk
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+*/
 @font-face {
     font-family: 'Roboto Mono';
     src: url('/hugo-theme-console/font/RobotoMono-Regular.ttf') format('truetype');
@@ -153,12 +159,44 @@ strong {
     margin-right: 30px;
 }
 
+/*
 figure {
     margin-top: 15px;
     margin-bottom: 15px;
     margin-left: 60px;
     margin-right: 60px;
+    max-width: 24%;
+    margin:auto;
+    display:inline-block;
 }
+underneath added from lk*/
+/*
+img {
+    display: inline-block;
+    height: auto;
+    width: 100%;
+}
+*/
+figure {
+    margin-left: 0;
+    margin-right: 0;
+}
+figure.grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: stretch;
+    align-items: flex-start;
+}
+
+figure.grid img {
+    object-fit: cover;
+    height: auto;
+    margin-top: 0;
+    max-width: 33%;
+}
+
 
 .footer {
     clear: both;
@@ -214,6 +252,7 @@ figure {
     font-weight: bold;
     padding-top: 3px;
 }
+
 
 @media only screen and (max-width: 850px) {
     .site-name {
