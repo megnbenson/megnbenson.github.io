@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Meg</title>
+    <title>Projects on Meg&#39;s Portfolio</title>
     <link>https://megnbenson.github.io/projects/</link>
-    <description>Recent content in Projects on Meg</description>
+    <description>Recent content in Projects on Meg&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://megnbenson.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,19 +14,10 @@
     <item>
       <title>Degree Final Piece 2020 - Adapted Project</title>
       <link>https://megnbenson.github.io/projects/flowers-final-degree-show/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://megnbenson.github.io/projects/flowers-final-degree-show/</guid>
       <description>&lt;p&gt;Documentation for Blossom Branch - Degree Show adapted project 2020&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>What is Hugo</title>
-      <link>https://megnbenson.github.io/projects/introduction/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://megnbenson.github.io/projects/introduction/</guid>
-      <description>&lt;p&gt;This is the first bit&lt;/p&gt;</description>
     </item>
     
   </channel>
