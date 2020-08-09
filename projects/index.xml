@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Meg(an) Benson</title>
-    <link>meganbenson.me/projects/</link>
+    <link>https://megnbenson.github.io/projects/</link>
     <description>Recent content in Projects on Meg(an) Benson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="meganbenson.me/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://megnbenson.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Degree Final Piece 2020 - Adapted Project</title>
-      <link>meganbenson.me/projects/flowers-final-degree-show/</link>
+      <link>https://megnbenson.github.io/projects/flowers-final-degree-show/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>meganbenson.me/projects/flowers-final-degree-show/</guid>
+      <guid>https://megnbenson.github.io/projects/flowers-final-degree-show/</guid>
       <description>&lt;p&gt;Documentation for Blossom Branch - Degree Show adapted project 2020&lt;/p&gt;</description>
     </item>
     
