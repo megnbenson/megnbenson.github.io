@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://megnbenson.github.io/portfolio/blossombranch/</loc>
+    <loc>https://megnbenson.github.io/portfolio/stickers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/portfolio/tryagain/</loc>
+    <lastmod>2017-08-06T20:23:59+05:30</lastmod>
   </url>
   
   <url>
@@ -23,8 +28,7 @@
   </url>
   
   <url>
-    <loc>https://megnbenson.github.io/portfolio/tryagain/</loc>
-    <lastmod>2017-08-06T20:23:59+05:30</lastmod>
+    <loc>https://megnbenson.github.io/portfolio/blossombranch/</loc>
   </url>
   
   <url>
@@ -94,10 +98,6 @@
   
   <url>
     <loc>https://megnbenson.github.io/portfolio/robotarm/</loc>
-  </url>
-  
-  <url>
-    <loc>https://megnbenson.github.io/portfolio/stickers/</loc>
   </url>
   
   <url>
