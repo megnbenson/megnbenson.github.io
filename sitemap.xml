@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//meganbenson.me/portfolio/stickers/</loc>
+    <loc>//meganbenson.me/portfolio/remotelatency/</loc>
+    <lastmod>2020-01-10T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>//meganbenson.me/portfolio/blossombranch/</loc>
   </url>
   
   <url>
@@ -28,7 +33,7 @@
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/blossombranch/</loc>
+    <loc>//meganbenson.me/portfolio/stickers/</loc>
   </url>
   
   <url>
@@ -650,6 +655,11 @@
   </url>
   
   <url>
+    <loc>//meganbenson.me/portfolio/</loc>
+    <lastmod>2020-01-10T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>//meganbenson.me/sketches/acrylicme/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
@@ -657,11 +667,6 @@
   <url>
     <loc>//meganbenson.me/sketches/3dpetal/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//meganbenson.me/portfolio/</loc>
-    <lastmod>2017-08-06T20:23:59+05:30</lastmod>
   </url>
   
   <url>
