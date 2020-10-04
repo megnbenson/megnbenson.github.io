@@ -6,13 +6,12 @@
     <description>Recent content in Portfolios on Meg(an) Benson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Aug 2017 20:23:59 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2020 20:23:59 +0530</lastBuildDate>
     
 	<atom:link href="//meganbenson.me/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<<<<<<< HEAD
       <title>Remote Latency, 2020</title>
       <link>//meganbenson.me/portfolio/remotelatency/</link>
       <pubDate>Fri, 10 Jan 2020 20:23:59 +0530</pubDate>
@@ -37,14 +36,6 @@
       
       <guid>//meganbenson.me/portfolio/tryagain/</guid>
       <description>&lt;p&gt;Try Again, an interactive wall, looking into hand gestures and communication while exploring the arduino and basic electronics. Final Piece for Art Foundation at UCA Farnham.&lt;/p&gt;</description>
-=======
-      <title>Blossom Branch, 2020</title>
-      <link>https://megnbenson.github.io/portfolio/blossombranch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://megnbenson.github.io/portfolio/blossombranch/</guid>
-      <description>&lt;p&gt;Blossom Branch, 2020. See &lt;a href=&#34;http://meganbenson.me/projects/flowers-final-degree-show/&#34;&gt;here&lt;/a&gt; for full documentation of piece journey and &lt;a href=&#34;http://meganbenson.me/flowers&#34;&gt;here&lt;/a&gt; for the piece.&lt;/p&gt;</description>
->>>>>>> a4f1552e8a4c277070f2b9238cce833f287edce5
     </item>
     
     <item>
@@ -84,21 +75,12 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>stickers</title>
       <link>//meganbenson.me/portfolio/stickers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//meganbenson.me/portfolio/stickers/</guid>
       <description>&lt;p&gt;stickers like, screen printing, sweet layers&lt;/p&gt;</description>
-=======
-      <title>Try Again, 2017</title>
-      <link>https://megnbenson.github.io/portfolio/tryagain/</link>
-      <pubDate>Sun, 06 Aug 2017 20:23:59 +0530</pubDate>
-      
-      <guid>https://megnbenson.github.io/portfolio/tryagain/</guid>
-      <description>&lt;p&gt;Try Again, an interactive wall, looking into hand gestures and communication while exploring the arduino and basic electronics. Final Piece for Art Foundation at UCA Farnham.&lt;/p&gt;</description>
->>>>>>> a4f1552e8a4c277070f2b9238cce833f287edce5
     </item>
     
     <item>
