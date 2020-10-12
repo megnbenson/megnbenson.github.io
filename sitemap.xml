@@ -3,113 +3,114 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//meganbenson.me/portfolio/remotelatency/</loc>
-    <lastmod>2020-01-10T20:23:59+05:30</lastmod>
+    <loc>https://megnbenson.github.io/portfolio/blossombranch/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/blossombranch/</loc>
+    <loc>https://megnbenson.github.io/portfolio/beyondthedepths/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/tryagain/</loc>
+    <loc>https://megnbenson.github.io/portfolio/islets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/portfolio/patch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/portfolio/peggy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/portfolio/tryagain/</loc>
     <lastmod>2017-08-06T20:23:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/beyondthedepths/</loc>
+    <loc>https://megnbenson.github.io/portfolio/acrylicmisc/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/islets/</loc>
-  </url>
-  
-  <url>
-    <loc>//meganbenson.me/portfolio/patch/</loc>
-  </url>
-  
-  <url>
-    <loc>//meganbenson.me/portfolio/peggy/</loc>
-  </url>
-  
-  <url>
-    <loc>//meganbenson.me/portfolio/stickers/</loc>
-  </url>
-  
-  <url>
-    <loc>//meganbenson.me/portfolio/acrylicmisc/</loc>
-  </url>
-  
-  <url>
-    <loc>//meganbenson.me/portfolio/lastsupper/</loc>
+    <loc>https://megnbenson.github.io/portfolio/lastsupper/</loc>
     <lastmod>2016-03-01T20:23:59+05:30</lastmod>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/twittersketch/</loc>
+    <loc>https://megnbenson.github.io/portfolio/twittersketch/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/acrylicscenes/</loc>
+    <loc>https://megnbenson.github.io/portfolio/acrylicscenes/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/maria/</loc>
+    <loc>https://megnbenson.github.io/portfolio/maria/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/clutterempty/</loc>
+    <loc>https://megnbenson.github.io/portfolio/clutterempty/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/panorama/</loc>
+    <loc>https://megnbenson.github.io/portfolio/panorama/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/shaders/</loc>
+    <loc>https://megnbenson.github.io/portfolio/shaders/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/iterate/</loc>
+    <loc>https://megnbenson.github.io/portfolio/iterate/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/lino/</loc>
+    <loc>https://megnbenson.github.io/portfolio/lino/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/pencil/</loc>
+    <loc>https://megnbenson.github.io/portfolio/pencil/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/leon/</loc>
+    <loc>https://megnbenson.github.io/portfolio/leon/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/othersketches/</loc>
+    <loc>https://megnbenson.github.io/portfolio/othersketches/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/oliviaprojection/</loc>
+    <loc>https://megnbenson.github.io/portfolio/oliviaprojection/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/patches/</loc>
+    <loc>https://megnbenson.github.io/portfolio/patches/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/perlinexperiment/</loc>
+    <loc>https://megnbenson.github.io/portfolio/perlinexperiment/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/robotarm/</loc>
+    <loc>https://megnbenson.github.io/portfolio/robotarm/</loc>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/sunflowers/</loc>
+    <loc>https://megnbenson.github.io/portfolio/stickers/</loc>
   </url>
   
   <url>
+    <loc>https://megnbenson.github.io/portfolio/sunflowers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/contact/</loc>
+    <lastmod>2020-08-02T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+<<<<<<< HEAD
     <loc>//meganbenson.me/projects/artscienceintersect/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url>
@@ -132,23 +133,573 @@
   <url>
     <loc>//meganbenson.me/projects/flowers-final-degree-show/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+=======
+    <loc>https://megnbenson.github.io/</loc>
+    <lastmod>2020-08-02T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>//meganbenson.me/portfolio/</loc>
-    <lastmod>2020-01-10T20:23:59+05:30</lastmod>
+    <loc>https://megnbenson.github.io/projects/flowers-final-degree-show/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//meganbenson.me/about/</loc>
+    <loc>https://megnbenson.github.io/projects/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//meganbenson.me/categories/</loc>
+    <loc>https://megnbenson.github.io/sketches/acrylicornament/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//meganbenson.me/tags/</loc>
+    <loc>https://megnbenson.github.io/sketches/acrylicsketchtulips/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/beyondcardboard/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/beyondpaper/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/acrylicsketchchessgarden/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/acrylicsketchhome/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/acrylicsketchmeg/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/acrylicsketchphoebe/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/charcoalsunflower/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/charcoaleye/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/christmaslifedrawing/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/bristolpanorama/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/birdpatch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/blossombranch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/branchpatch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/beyondthedepthscanvas/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/clayprogress/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/clayreliefeagle/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/crouchoilmaria/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/dylan/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/etextilespatch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/faceon/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/faceonoliviaproj/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/flowerpatch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/flowerprototype/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/flowerrelief/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/flowerreliefplaster/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/foundationcharcoal/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/foundationfilter2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/foundationfilter/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/helvelinohole/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/helvesketch2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/helvesketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/helvesketchrose/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/holidaypatch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/instagrampatch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/islets1/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/islets2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/islets3/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/islets4/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/islets5/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/islets6/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/islets7/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/islets8/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/islets9/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/islets/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/isletsballs2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/isletsballs/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/isletscarving/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/isletsfinished2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/isletsfinished/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/iteratepic/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+>>>>>>> 74bbad79c54aa133bac2d134d2cd49bed432d21b
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/iteratesketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/kandinskylastsupper/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/kandinskysketch2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/lastsupper/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/lastsupperprogress/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/lastsuppersketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/lino2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/linocoffee/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/linocravass/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/linoholesketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/linoparis/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/linosketch2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/linosketch3/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/linosketches/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/linosketchzoom/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/linozoom/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/mariacharcoalprogress/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/mariacoffee/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/mariaoil/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/mariaoilpastel/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/mariaphoto/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/meandappleman/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/mirrorsketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/oilpastelmaria/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/olivia/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/oliviaprojection/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/organlunch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/pancreasbox/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/panorama/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/patchsticker/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/peggy1/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/peggygoogle/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/peggyheadclay/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/peggywet/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/perlinnoise1/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/perlinnoise2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/plasticrocks2/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/plasticrocks/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/projectedbeyond/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/requiresmilkpatch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/sketchpaper/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/sticker/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/sunflowersketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/textileolivia/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/theo/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/tribe/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/tribeparts/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/upsidedownsketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/will/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/acrylicsketch/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/acrylicsketchbreakfast/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/acrylicbum/</loc>
+    <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/acrylicme/</loc>
+    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/sketches/3dpetal/</loc>
+    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/portfolio/</loc>
+    <lastmod>2017-08-06T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://megnbenson.github.io/tags/</loc>
   </url>
   
 </urlset>
