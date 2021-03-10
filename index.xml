@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meg(an) Benson</title>
+    <title>Megan Benson</title>
     <link>//meganbenson.me/</link>
-    <description>Recent content on Meg(an) Benson</description>
+    <description>Recent content on Megan Benson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Aug 2020 13:00:25 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="//meganbenson.me/index.xml" rel="self" type="application/rss+xml" />
     
@@ -243,6 +243,15 @@
       
       <guid>//meganbenson.me/portfolio/sunflowers/</guid>
       <description>&lt;p&gt;Pencil sketch, 2015&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Art Science Intersect</title>
+      <link>//meganbenson.me/projects/artscienceintersect/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//meganbenson.me/projects/artscienceintersect/</guid>
+      <description>&lt;p&gt;A Digital Artist duo prepped to work with scientists&lt;/p&gt;</description>
     </item>
     
     <item>
