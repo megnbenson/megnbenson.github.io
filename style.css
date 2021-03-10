@@ -395,24 +395,23 @@ width: 40%;
     left: 20%;
     z-index: 10;
 /*background-color: red;*/
-    margin: 3em;
+    margin: 15em 3em;
     padding: 0.1em;
 /*margin:15vw 1vw 20vw 1vw;*/
     width:70%;
 }
-.highlights:hover {
-    margin:2em;
-    border:2px dotted;
-    border-color:cadetblue;
-    border-block-color:purple;
+    .highlights:hover {
+        margin: 15em 3em;
+        border: 2px dotted;
+        border-color: cadetblue;
+        border-block-color: purple;
+    }
 
-}
 
-
-#highlight1 {
+/*#highlight1 {
     margin-top: 3em;
     padding: 0.1em;
-}
+}*/
 /*
 #highlight3 {
     top:0;
