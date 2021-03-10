@@ -1,266 +1,1202 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Megan Benson</title>
-    <link>//meganbenson.me/</link>
-    <description>Recent content on Megan Benson</description>
+    <title>Meg(an) Benson</title>
+    <link>https://megnbenson.github.io/</link>
+    <description>Recent content on Meg(an) Benson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2020 13:00:25 +0530</lastBuildDate>
     
-	<atom:link href="//meganbenson.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://megnbenson.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Remote Latency, 2020</title>
-      <link>//meganbenson.me/portfolio/remotelatency/</link>
-      <pubDate>Fri, 10 Jan 2020 20:23:59 +0530</pubDate>
-      
-      <guid>//meganbenson.me/portfolio/remotelatency/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://remotelatency.com/&#34;&gt;Remote Latency&lt;/a&gt;, Online Exhibition hosted with Arebyte On Screen.&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Blossom Branch, 2020</title>
-      <link>//meganbenson.me/portfolio/blossombranch/</link>
+      <link>https://megnbenson.github.io/portfolio/blossombranch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/blossombranch/</guid>
+      <guid>https://megnbenson.github.io/portfolio/blossombranch/</guid>
       <description>&lt;p&gt;Blossom Branch, 2020. See &lt;a href=&#34;http://meganbenson.me/projects/flowers-final-degree-show/&#34;&gt;here&lt;/a&gt; for full documentation of piece journey and &lt;a href=&#34;http://meganbenson.me/flowers&#34;&gt;here&lt;/a&gt; for the piece.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Try Again, 2017</title>
-      <link>//meganbenson.me/portfolio/tryagain/</link>
-      <pubDate>Sun, 06 Aug 2017 20:23:59 +0530</pubDate>
-      
-      <guid>//meganbenson.me/portfolio/tryagain/</guid>
-      <description>&lt;p&gt;Try Again, an interactive wall, looking into hand gestures and communication while exploring the arduino and basic electronics. Final Piece for Art Foundation at UCA Farnham.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Beyond The Depths</title>
-      <link>//meganbenson.me/portfolio/beyondthedepths/</link>
+      <link>https://megnbenson.github.io/portfolio/beyondthedepths/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/beyondthedepths/</guid>
+      <guid>https://megnbenson.github.io/portfolio/beyondthedepths/</guid>
       <description>&lt;p&gt;Beyond the Depths, 2019. A piece on materiality&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>islets, 2019</title>
-      <link>//meganbenson.me/portfolio/islets/</link>
+      <link>https://megnbenson.github.io/portfolio/islets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/islets/</guid>
+      <guid>https://megnbenson.github.io/portfolio/islets/</guid>
       <description>&lt;p&gt;Collaboration delving into diabetes stem cell research with Kings College London scientist &lt;a href=&#34;https://www.kcl.ac.uk/lsm/research/divisions/gmm/departments/stemcells/wellcome-trust-phd/our-students/2017-ella-louise-hubber&#34;&gt;Ella-Louise Hubber&lt;/a&gt; and artist &lt;a href=&#34;https://www.instagram.com/_deverdier/&#34;&gt;Johanna de Verdier&lt;/a&gt;. Exhibited at New Scientist Live 2019. Article &lt;a href=&#34;https://kingsengagedresearchblog.wordpress.com/2020/01/10/the-art-of-engaging/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PATCH, 2018</title>
-      <link>//meganbenson.me/portfolio/patch/</link>
+      <link>https://megnbenson.github.io/portfolio/patch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/patch/</guid>
+      <guid>https://megnbenson.github.io/portfolio/patch/</guid>
       <description>&lt;p&gt;PATCH, e-textiles and projection mapping piece for first year of uni. Piece documentation &lt;a href=&#34;http://igor.gold.ac.uk/~mbens003/PATCH/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Peggy</title>
-      <link>//meganbenson.me/portfolio/peggy/</link>
+      <link>https://megnbenson.github.io/portfolio/peggy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/peggy/</guid>
+      <guid>https://megnbenson.github.io/portfolio/peggy/</guid>
       <description>&lt;p&gt;Peggy, Clay, 2015, Thoughts on losing time. Exhibited with an interview of Peggy played from inside the head.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>stickers</title>
-      <link>//meganbenson.me/portfolio/stickers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Try Again, 2017</title>
+      <link>https://megnbenson.github.io/portfolio/tryagain/</link>
+      <pubDate>Sun, 06 Aug 2017 20:23:59 +0530</pubDate>
       
-      <guid>//meganbenson.me/portfolio/stickers/</guid>
-      <description>&lt;p&gt;stickers like, screen printing, sweet layers&lt;/p&gt;</description>
+      <guid>https://megnbenson.github.io/portfolio/tryagain/</guid>
+      <description>&lt;p&gt;Try Again, an interactive wall, looking into hand gestures and communication while exploring the arduino and basic electronics. Final Piece for Art Foundation at UCA Farnham.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>acrylic sketches</title>
-      <link>//meganbenson.me/portfolio/acrylicmisc/</link>
+      <link>https://megnbenson.github.io/portfolio/acrylicmisc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/acrylicmisc/</guid>
+      <guid>https://megnbenson.github.io/portfolio/acrylicmisc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Last Supper (first breakfast), 2016</title>
-      <link>//meganbenson.me/portfolio/lastsupper/</link>
+      <link>https://megnbenson.github.io/portfolio/lastsupper/</link>
       <pubDate>Tue, 01 Mar 2016 20:23:59 +0530</pubDate>
       
-      <guid>//meganbenson.me/portfolio/lastsupper/</guid>
+      <guid>https://megnbenson.github.io/portfolio/lastsupper/</guid>
       <description>&lt;p&gt;Oil, placing myself at a table among those who defined time.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>a tweet, 2018</title>
-      <link>//meganbenson.me/portfolio/twittersketch/</link>
+      <link>https://megnbenson.github.io/portfolio/twittersketch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/twittersketch/</guid>
+      <guid>https://megnbenson.github.io/portfolio/twittersketch/</guid>
       <description>&lt;p&gt;p5js sketch, code the size of a tweet. Piece &lt;a href=&#34;http://igor.gold.ac.uk/~mbens003/tweetSketch/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>acrylic sketches</title>
-      <link>//meganbenson.me/portfolio/acrylicscenes/</link>
+      <link>https://megnbenson.github.io/portfolio/acrylicscenes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/acrylicscenes/</guid>
+      <guid>https://megnbenson.github.io/portfolio/acrylicscenes/</guid>
       <description>&lt;p&gt;to go to print&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Beyond The Depths</title>
-      <link>//meganbenson.me/portfolio/maria/</link>
+      <link>https://megnbenson.github.io/portfolio/maria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/maria/</guid>
+      <guid>https://megnbenson.github.io/portfolio/maria/</guid>
       <description>&lt;p&gt;Maria, Charcoal, A0. A piece made while looking at time and its perception.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Cluttered Mind / Empty Thoughts, 2017</title>
-      <link>//meganbenson.me/portfolio/clutterempty/</link>
+      <link>https://megnbenson.github.io/portfolio/clutterempty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/clutterempty/</guid>
+      <guid>https://megnbenson.github.io/portfolio/clutterempty/</guid>
       <description>&lt;p&gt;Foundation piece, Clay&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Gran&#39;s Garden, 2017</title>
-      <link>//meganbenson.me/portfolio/panorama/</link>
+      <link>https://megnbenson.github.io/portfolio/panorama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/panorama/</guid>
+      <guid>https://megnbenson.github.io/portfolio/panorama/</guid>
       <description>&lt;p&gt;panorama playing physical to digital with facebook and google panorama. formatted piece &lt;a href=&#34;https://www.facebook.com/mmmeggggg/posts/1244975282253913&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Graphics Webcam</title>
-      <link>//meganbenson.me/portfolio/shaders/</link>
+      <link>https://megnbenson.github.io/portfolio/shaders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/shaders/</guid>
+      <guid>https://megnbenson.github.io/portfolio/shaders/</guid>
       <description>&lt;p&gt;Experimentation with openframeworks shaders c++&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>iterate, 2018, pop-up show</title>
-      <link>//meganbenson.me/portfolio/iterate/</link>
+      <link>https://megnbenson.github.io/portfolio/iterate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/iterate/</guid>
+      <guid>https://megnbenson.github.io/portfolio/iterate/</guid>
       <description>&lt;p&gt;iterate student pop up show. Piece &lt;a href=&#34;http://igor.gold.ac.uk/~mbens003/perlin/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Lino Pieces</title>
-      <link>//meganbenson.me/portfolio/lino/</link>
+      <link>https://megnbenson.github.io/portfolio/lino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/lino/</guid>
+      <guid>https://megnbenson.github.io/portfolio/lino/</guid>
       <description>&lt;p&gt;Lino for Helve poster and other&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Lockdown Sketches</title>
-      <link>//meganbenson.me/portfolio/pencil/</link>
+      <link>https://megnbenson.github.io/portfolio/pencil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/pencil/</guid>
+      <guid>https://megnbenson.github.io/portfolio/pencil/</guid>
       <description>&lt;p&gt;sketches for &lt;a href=&#34;https://www.instagram.com/helve___/&#34;&gt;Helve&lt;/a&gt; band, most from lockdown&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>November Blues EP</title>
-      <link>//meganbenson.me/portfolio/leon/</link>
+      <link>https://megnbenson.github.io/portfolio/leon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/leon/</guid>
+      <guid>https://megnbenson.github.io/portfolio/leon/</guid>
       <description>&lt;p&gt;EP cover for Leon Benson, on Spotify &lt;a href=&#34;https://open.spotify.com/album/4sWycTTcOPke7yfr1DRvw4&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>oil pastel sketches</title>
-      <link>//meganbenson.me/portfolio/othersketches/</link>
+      <link>https://megnbenson.github.io/portfolio/othersketches/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/othersketches/</guid>
+      <guid>https://megnbenson.github.io/portfolio/othersketches/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Olivia</title>
-      <link>//meganbenson.me/portfolio/oliviaprojection/</link>
+      <link>https://megnbenson.github.io/portfolio/oliviaprojection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/oliviaprojection/</guid>
+      <guid>https://megnbenson.github.io/portfolio/oliviaprojection/</guid>
       <description>&lt;p&gt;Olivia, acylic under projection, playing with presenting movement and traditional media. Video of piece &lt;a href=&#34;https://art-meganbenson.tumblr.com/post/156307035968/body-identity-narrative-footage-of-final-outcome&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Patches</title>
-      <link>//meganbenson.me/portfolio/patches/</link>
+      <link>https://megnbenson.github.io/portfolio/patches/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/patches/</guid>
+      <guid>https://megnbenson.github.io/portfolio/patches/</guid>
       <description>&lt;p&gt;Embroidered free hand&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Perlin Sketch</title>
-      <link>//meganbenson.me/portfolio/perlinexperiment/</link>
+      <link>https://megnbenson.github.io/portfolio/perlinexperiment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/perlinexperiment/</guid>
+      <guid>https://megnbenson.github.io/portfolio/perlinexperiment/</guid>
       <description>&lt;p&gt;p5js graphics playing with perlin noise, live sketch &lt;a href=&#34;http://igor.gold.ac.uk/~mbens003/morePerlin/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Robot Arm sketch</title>
-      <link>//meganbenson.me/portfolio/robotarm/</link>
+      <link>https://megnbenson.github.io/portfolio/robotarm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/robotarm/</guid>
+      <guid>https://megnbenson.github.io/portfolio/robotarm/</guid>
       <description>&lt;p&gt;openframeworks graphics c++, piece found &lt;a href=&#34;http://igor.gold.ac.uk/~mbens003/robotArm/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Sunflowers</title>
-      <link>//meganbenson.me/portfolio/sunflowers/</link>
+      <title>stickers</title>
+      <link>https://megnbenson.github.io/portfolio/stickers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/portfolio/sunflowers/</guid>
+      <guid>https://megnbenson.github.io/portfolio/stickers/</guid>
+      <description>&lt;p&gt;stickers like, screen printing, sweet layers&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sunflowers</title>
+      <link>https://megnbenson.github.io/portfolio/sunflowers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/portfolio/sunflowers/</guid>
       <description>&lt;p&gt;Pencil sketch, 2015&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Art Science Intersect</title>
-      <link>//meganbenson.me/projects/artscienceintersect/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Degree Final Piece 2020 - Adapted Project</title>
+      <link>https://megnbenson.github.io/projects/flowers-final-degree-show/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/projects/artscienceintersect/</guid>
-      <description>&lt;p&gt;A Digital Artist duo prepped to work with scientists&lt;/p&gt;</description>
+      <guid>https://megnbenson.github.io/projects/flowers-final-degree-show/</guid>
+      <description>&lt;p&gt;Documentation for Blossom Branch - Degree Show adapted project 2020&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Degree Final Piece 2020 - Adapted Project</title>
-      <link>//meganbenson.me/projects/flowers-final-degree-show/</link>
-      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Acrylic Sketch</title>
+      <link>https://megnbenson.github.io/sketches/acrylicornament/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>//meganbenson.me/projects/flowers-final-degree-show/</guid>
-      <description>&lt;p&gt;Documentation for Blossom Branch - Degree Show adapted project 2020&lt;/p&gt;</description>
+      <guid>https://megnbenson.github.io/sketches/acrylicornament/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic Sketch</title>
+      <link>https://megnbenson.github.io/sketches/acrylicsketchtulips/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/acrylicsketchtulips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic Sketch</title>
+      <link>https://megnbenson.github.io/sketches/beyondcardboard/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/beyondcardboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic Sketch</title>
+      <link>https://megnbenson.github.io/sketches/beyondpaper/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/beyondpaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic sketch</title>
+      <link>https://megnbenson.github.io/sketches/acrylicsketchchessgarden/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/acrylicsketchchessgarden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic sketch</title>
+      <link>https://megnbenson.github.io/sketches/acrylicsketchhome/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/acrylicsketchhome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic sketch</title>
+      <link>https://megnbenson.github.io/sketches/acrylicsketchmeg/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/acrylicsketchmeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic sketch</title>
+      <link>https://megnbenson.github.io/sketches/acrylicsketchphoebe/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/acrylicsketchphoebe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charcoal Sketch</title>
+      <link>https://megnbenson.github.io/sketches/charcoalsunflower/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/charcoalsunflower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charcoal sketch</title>
+      <link>https://megnbenson.github.io/sketches/charcoaleye/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/charcoaleye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christmas Life drawing</title>
+      <link>https://megnbenson.github.io/sketches/christmaslifedrawing/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/christmaslifedrawing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Painting panorama</title>
+      <link>https://megnbenson.github.io/sketches/bristolpanorama/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/bristolpanorama/</guid>
+      <description>When formatted, it looked like this</description>
+    </item>
+    
+    <item>
+      <title>Patch</title>
+      <link>https://megnbenson.github.io/sketches/birdpatch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/birdpatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patch</title>
+      <link>https://megnbenson.github.io/sketches/blossombranch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/blossombranch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patch</title>
+      <link>https://megnbenson.github.io/sketches/branchpatch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/branchpatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progress shot, for Beyond the Depths</title>
+      <link>https://megnbenson.github.io/sketches/beyondthedepthscanvas/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/beyondthedepthscanvas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/clayprogress/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/clayprogress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/clayreliefeagle/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/clayreliefeagle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/crouchoilmaria/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/crouchoilmaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/dylan/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/dylan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/etextilespatch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/etextilespatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/faceon/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/faceon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/faceonoliviaproj/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/faceonoliviaproj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/flowerpatch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/flowerpatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/flowerprototype/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/flowerprototype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/flowerrelief/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/flowerrelief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/flowerreliefplaster/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/flowerreliefplaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/foundationcharcoal/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/foundationcharcoal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/foundationfilter2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/foundationfilter2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/foundationfilter/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/foundationfilter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/helvelinohole/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/helvelinohole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/helvesketch2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/helvesketch2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/helvesketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/helvesketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/helvesketchrose/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/helvesketchrose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/holidaypatch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/holidaypatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/instagrampatch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/instagrampatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/islets1/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/islets1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/islets2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/islets2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/islets3/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/islets3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/islets4/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/islets4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/islets5/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/islets5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/islets6/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/islets6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/islets7/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/islets7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/islets8/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/islets8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/islets9/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/islets9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/islets/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/islets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/isletsballs2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/isletsballs2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/isletsballs/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/isletsballs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/isletscarving/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/isletscarving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/isletsfinished2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/isletsfinished2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/isletsfinished/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/isletsfinished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/iteratepic/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/iteratepic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/iteratesketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/iteratesketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/kandinskylastsupper/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/kandinskylastsupper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/kandinskysketch2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/kandinskysketch2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/lastsupper/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/lastsupper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/lastsupperprogress/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/lastsupperprogress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/lastsuppersketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/lastsuppersketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/lino2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/lino2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/linocoffee/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/linocoffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/linocravass/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/linocravass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/linoholesketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/linoholesketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/linoparis/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/linoparis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/linosketch2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/linosketch2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/linosketch3/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/linosketch3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/linosketches/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/linosketches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/linosketchzoom/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/linosketchzoom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/linozoom/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/linozoom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/mariacharcoalprogress/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/mariacharcoalprogress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/mariacoffee/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/mariacoffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/mariaoil/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/mariaoil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/mariaoilpastel/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/mariaoilpastel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/mariaphoto/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/mariaphoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/meandappleman/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/meandappleman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/mirrorsketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/mirrorsketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/oilpastelmaria/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/oilpastelmaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/olivia/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/olivia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/oliviaprojection/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/oliviaprojection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/organlunch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/organlunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/pancreasbox/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/pancreasbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/panorama/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/panorama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/patchsticker/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/patchsticker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/peggy1/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/peggy1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/peggygoogle/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/peggygoogle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/peggyheadclay/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/peggyheadclay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/peggywet/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/peggywet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/perlinnoise1/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/perlinnoise1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/perlinnoise2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/perlinnoise2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/plasticrocks2/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/plasticrocks2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/plasticrocks/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/plasticrocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/projectedbeyond/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/projectedbeyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/requiresmilkpatch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/requiresmilkpatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/sketchpaper/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/sketchpaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/sticker/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/sticker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/sunflowersketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/sunflowersketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/textileolivia/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/textileolivia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/theo/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/theo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/tribe/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/tribe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/tribeparts/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/tribeparts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/upsidedownsketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/upsidedownsketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://megnbenson.github.io/sketches/will/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/will/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warsaw, Poland</title>
+      <link>https://megnbenson.github.io/sketches/acrylicsketch/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/acrylicsketch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warsaw, Poland</title>
+      <link>https://megnbenson.github.io/sketches/acrylicsketchbreakfast/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/acrylicsketchbreakfast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic Sketch</title>
+      <link>https://megnbenson.github.io/sketches/acrylicbum/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/acrylicbum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acrylic Sketch</title>
+      <link>https://megnbenson.github.io/sketches/acrylicme/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/acrylicme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D attempt for petals</title>
+      <link>https://megnbenson.github.io/sketches/3dpetal/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://megnbenson.github.io/sketches/3dpetal/</guid>
+      <description></description>
     </item>
     
   </channel>
