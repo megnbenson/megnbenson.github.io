@@ -1,128 +1,259 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Meg</title>
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/p5@1.9.0/lib/p5.js"></script>
-<script src="sketch.js"></script>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Meg</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.9.0/lib/p5.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js"
+      integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D"
+      crossorigin="anonymous"
+      async
+    ></script>
 
-<style>
-  body {
-    padding: 0;
-    margin: 0;
-    background-color: #1b1b1b;
-  }
-  .container {
-    background-color: #581717;
-
-  }
-/* 
-  .sketch-container {
-    width: 100%;
-    height:100%;
-    background-color: #581717;
-
-  } */
-
-</style>
-
-</head>
-<body>
-  <!-- <div id="sketch-container"></div> -->
- <nav class="navbar navbar-expand-lg navbar-dark bg-dark"> 
-    <div class="container-fluid">
-        <a href="#" class="navbar-brand">Megan Benson</a>
-        <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-            <span class="navbar-toggler-icon"></span>
+    <script src="sketch.js"></script>
+    <script src="styles.css"></script>
+    <style>
+      body {
+        position: relative;
+        background-color: black;
+      }
+    </style>
+  </head>
+  <body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
+    <nav class="navbar navbar-expand-sm navbar-dark fixed-top">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#home">Megan Benson</a>
+        <button
+          type="button"
+          class="navbar-toggler"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarCollapse"
+        >
+          <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
-            <div class="navbar-nav">
-                <a href="#" class="nav-item nav-link active">Latest work</a>
-                <a href="#" class="nav-item nav-link">Portfolio</a>
-                <a href="#" class="nav-item nav-link">About</a>
-            </div>
-            <div class="navbar-nav ms-auto">              	
-                <a href="#" class="nav-item nav-link">Contact</a>
-            </div>
+          <div class="navbar-nav">
+            <!-- <a href="#latestWork" class="nav-item nav-link active"
+              >Latest work</a
+            > -->
+            <a href="#portfolio" class="nav-item nav-link">Portfolio</a>
+            <a href="#about" class="nav-item nav-link">About</a>
+          </div>
+          <div class="navbar-nav ms-auto">
+            <a href="#" class="nav-item nav-link">Contact</a>
+          </div>
         </div>
-    </div>
-</nav>
-<div id="sketch-container" class="z-0 container-fluid">
-  <!-- <div class="z-1 container-fluid"> -->
-  	<!-- <div class="p-5 my-4 bg-light rounded-3">
-        <h1>Hello, World! </h1>
-    </div>
-    <div class="row g-3">
-        <h2>Latest work </h2>
-    </div> -->
-    <!-- <div class="row g-3">
-        <h2>Portfolio </h2>
-        <div class="col-md-6 col-lg-4 col-xl-3">
-            <h2>HTML</h2>
-            <p>HTML is the standard markup language for describing the structure of the web pages. Our HTML tutorials will help you to understand the basics of latest HTML5 language, so that you can create your own website.</p>
-            <p><a href="https://www.tutorialrepublic.com/html-tutorial/" target="_blank" class="btn btn-success">Learn More &raquo;</a></p>
-        </div>
-        <div class="col-md-6 col-lg-4 col-xl-3">
-            <h2>CSS</h2>
-            <p>CSS is used for describing the presentation of web pages. CSS can save a lot of time and effort. Our CSS tutorials will help you to learn the essentials of latest CSS3, so that you can control the style and layout of your website.</p>
-            <p><a href="https://www.tutorialrepublic.com/css-tutorial/" target="_blank" class="btn btn-success">Learn More &raquo;</a></p>
-        </div>
-        <div class="col-md-6 col-lg-4 col-xl-3">
-            <h2>JavaScript</h2>
-            <p>JavaScript is the most popular and widely used client-side scripting language. Our JavaScript tutorials will provide in-depth knowledge of the JavaScript including ES6 features, so that you can create interactive websites.</p>
-            <p><a href="https://www.tutorialrepublic.com/javascript-tutorial/" target="_blank" class="btn btn-success">Learn More &raquo;</a></p>
-        </div>
-        <div class="col-md-6 col-lg-4 col-xl-3">
-            <h2>Bootstrap</h2>
-            <p>Bootstrap is a powerful front-end framework for faster and easier web development. Our Bootstrap tutorials will help you to learn all the features of latest Bootstrap 4 framework so that you can easily create responsive websites.</p>
-            <p><a href="https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/" target="_blank" class="btn btn-success">Learn More &raquo;</a></p>
-        </div>
-        <div class="col-md-6 col-lg-4 col-xl-3">
-            <h2>PHP</h2>
-            <p>PHP is the most popular server-side scripting language for creating dynamic web pages. Our PHP tutorials will help you to learn all the features of latest PHP7 scripting language so that you can easily create dynamic websites.</p>
-            <p><a href="https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/" target="_blank" class="btn btn-success">Learn More &raquo;</a></p>
-        </div>
-        <div class="col-md-6 col-lg-4 col-xl-3">
-            <h2>SQL</h2>
-            <p>SQL is a standard language designed for managing data in relational database management system. Our SQL tutorials will help you to learn the fundamentals of the SQL language so that you can efficiently manage your databases.</p>
-            <p><a href="https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/" target="_blank" class="btn btn-success">Learn More &raquo;</a></p>
-        </div>
-        <div class="col-md-6 col-lg-4 col-xl-3">
-            <h2>References</h2>
-            <p>Our references section outlines all the standard HTML5 tags and CSS3 properties along with other useful references such as color names and values, character entities, web safe fonts, language codes, HTTP messages, and more.</p>
-            <p><a href="https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/" target="_blank" class="btn btn-success">Learn More &raquo;</a></p>
-        </div>
-        <div class="col-md-6 col-lg-4 col-xl-3">
-            <h2>FAQ</h2>
-            <p>Our Frequently Asked Questions (FAQ) section is an extensive collection of FAQs that provides quick and working solution of common questions and queries related to web design and development with live demo.</p>
-            <p><a href="https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/" target="_blank" class="btn btn-success">Learn More &raquo;</a></p>
-        </div>
-    </div>
-    <div class="row g-3">
-        <h2>About </h2>
-    </div>
-    <div class="row g-3">
-        <h2>Contact </h2>
-    </div>
-    <hr>
-    <footer>
+      </div>
+    </nav>
+
+    <!-- P5 SKETCH : -->
+    <div
+      style="padding: 0px 0px; margin: 0px"
+      id="sketch-container"
+      class="position-fixed z-n100"
+    ></div>
+
+    <div class="container-fluid position-relative bg-transparent z-100">
+      <div id="home" class="text-white" style="padding: 25%"></div>
+<!-- 
+      <div
+        id="latestWork"
+        class="container-fluid text-white"
+        style="padding: 5% 0%"
+      >
+        <h1>Latest Work</h1>
+        <p></p>
         <div class="row">
-            <div class="col-md-6">
-                <p></p>
+          <div class="col-sm-4"></div>
+
+          <div class="col-sm-4">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="static\img\me.jpg"
+                alt="Card image"
+              />
+              <div class="card-img-overlay">
+                <h4 class="card-title">John Doe</h4>
+                    <p class="card-text">Some example text.</p>
+                <a href="#latestWork" class="btn btn-primary">LATEST WORK</a>
+              </div>
             </div>
-            <div class="col-md-6 text-md-end">
-                <a href="#" class="text-dark">Terms of Use</a>
-                <span class="text-muted mx-2">|</span>
-                <a href="#" class="text-dark">Privacy Policy</a>
-            </div>
+          </div>
+
+          <div class="col-sm-4"></div>
         </div>
-    </footer>  -->
-</div>
-</div>
+      </div> -->
 
+      <div
+        id="portfolio"
+        class="container-fluid text-white"
+        style="padding: 5% 0%"
+      >
+        <h1>Portfolio</h1>
+        <div class="row" data-masonry='{"percentPosition": true }'>
+          <!-- COLUMN 1 -->
+          <div class="col-sm-4">
+            <div class="card mt-4 text-bg-dark">
+              <a href="portfolio/CorsicAR">
+                <img
+                  class="card-img-top"
+                  src="static\img\portfolio\Corsica\CorsicAR.gif"
+                  alt="Modular Extractions gif"
+              /></a>
+              <div class="card-body">
+                <!-- <h4 class="card-title"><a href="portfolio/CorsicAR"> Modular Extractions, 2022.</a></h4> -->
+                <!-- <p class="card-text"> A piece on processes of extraction. Part of RealBodies - Ingrid @ Corsica Studios</p>
+                  <a href="#latestWork" class="btn btn-primary">LATEST WORK</a> -->
+              </div>
+            </div>
 
-</body>
+            <div class="card mt-4 text-bg-dark">
+              <a href="portfolio/BeyondTheDepths">
+                <img
+                  class="card-img-top"
+                  src="static\img\portfolio\BeyondTheDepths\beyondTheDepths.png"
+                  alt="Piece titled, Beyond The Depths, 2019"
+              /></a>
+              <div class="card-body"></div>
+            </div>
+
+            <div class="card mt-4 text-bg-dark">
+              <a href="portfolio/peggy">
+                <img
+                  class="card-img-top"
+                  src="static\img\portfolio\Clay\PeggyWet.jpg"
+                  alt="Piece titled, Peggy, 2015"
+              /></a>
+              <div class="card-body"></div>
+            </div>
+          </div>
+
+          <!-- COLUMN 2 -->
+          <div class="col-sm-4">
+            <div class="card mt-4 text-bg-dark">
+              <a href="portfolio/tickTickBloom">
+                <img
+                  class="card-img-top"
+                  src="static\img\portfolio\Tree\landscapeFlower.gif"
+                  alt="Modular Extractions gif"
+              /></a>
+              <div class="card-body"></div>
+            </div>
+
+            <div class="card mt-4 text-bg-dark">
+              <a href="portfolio/BlossomBranch">
+                <img
+                  class="card-img-top"
+                  src="static\img\portfolio\BlossomBranch\blossomBranch.gif"
+                  alt="Piece titled, Blossom Branch, 2020"
+              /></a>
+              <div class="card-body"></div>
+            </div>
+
+            <!-- <div class="card mt-4 text-bg-dark">
+              <a href="portfolio/BlossomBranch">
+                <img
+                  class="card-img-top"
+                  src="static\img\portfolio\LastSupper\lastSupper.jpg"
+                  alt="Piece titled, Last Supper, 2016"
+              />
+            </a>
+              <div class="card-body"></div>
+            </div> -->
+
+            <!-- <div class="card mt-4 text-bg-dark">
+              <a href="https://remotelatency.com/">
+                <img
+                  class="card-img-top"
+                  src="static\img\portfolio\Graphics\shaders.png"
+                  alt="Piece titled PATCH, 2018"
+              /></a>
+              <div class="card-body"></div>
+            </div> -->
+            <div class="card mt-4 text-bg-dark">
+              <a href="https://www.facebook.com/mmmeggggg/posts/1244975282253913">
+                <img
+                  class="card-img-top"
+                  src="static\img\portfolio\Foundation\panorama.jpg"
+                  alt="Gran's Garden, 2017"
+              />
+            </a>
+              <div class="card-body"></div>
+            </div>
+          </div>
+
+          <!-- COLUMN 3 -->
+          <div class="col-sm-4">
+            <div class="card mt-4 text-bg-dark">
+              <a href="portfolio/tryAgain">
+                <img
+                  class="card-img-top"
+                  src="static\img\portfolio\Foundation\foundation.jpg"
+                  alt="Piece titled Try Again, 2017"
+              /></a>
+            </div>
+
+            <div class="card mt-4 text-bg-dark">
+              <a href="https://remotelatency.com/">
+                <img
+                  class="card-img-top"
+                  src="static\img\portfolio\BlossomBranch/exhib.gif"
+                  alt="Remote Latency online exhibition"
+              /></a>
+              <div class="card-body"></div>
+            </div>
+            <div class="card mt-4 text-bg-dark">
+              <a href="portfolio/isletTransplants/">
+                <img
+                  class="card-img-top"
+                  src="static\img\portfolio\Islets\isletsFinished.jpg"
+                  alt="Piece titled, islets, 2019"
+              /></a>
+              <div class="card-body"></div>
+            </div>
+           
+          </div>
+        </div>
+      </div>
+
+      <div id="about" class="container-fluid text-white bg-transparent">
+        <h1>About</h1>
+        <div class="row ">
+          <div class="col-sm-4  align-bottom">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="static\img\me.jpg"
+                alt="Card image"
+              />
+              <div class="card-img-overlay">
+                <!-- <h4 class="card-title">John Doe</h4>
+                    <p class="card-text">Some example text.</p> -->
+                <!-- <a href="#latestWork" class="btn btn-primary">LATEST WORK</a> -->
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-8  align-bottom">
+            <p>
+              Hello, I am a software developer and artist. When not behind a
+              work desk, I can be found in a skate park on my roller skates.
+            </p>
+            <p>
+              See anything you like? lets talk. Open to commisions and
+              collaborations.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>

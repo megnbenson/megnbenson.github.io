@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Meg</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.9.0/lib/p5.js"></script>
+
+    <script src="../../sketch.js"></script>
+    <script src="../../styles.css"></script>
+    <style>
+      body {
+    position: relative; 
+    background-color: black;
+  }
+    </style>
+  </head>
+  <body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
+    <nav class="navbar navbar-expand-sm navbar-dark fixed-top">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="../../">Megan Benson</a>
+        <button
+          type="button"
+          class="navbar-toggler"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarCollapse"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <div class="navbar-nav">
+            <!-- <a href="../../#latestWork" class="nav-item nav-link active"
+              >Latest work</a
+            >
+            <a href="../../#portfolio" class="nav-item nav-link">Portfolio</a>
+            <a href="../../#about" class="nav-item nav-link">About</a> -->
+
+            <a href="#top" class="nav-item nav-link active">Modular Extractions, 2022.</a>
+            <!-- <a href="../../#portfolio" class="nav-item nav-link">Portfolio</a>
+            <a href="../../#about" class="nav-item nav-link">About</a> -->
+          </div>
+          <div class="navbar-nav ms-auto">
+            <a href="#" class="nav-item nav-link">Contact</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <!-- P5 SKETCH : -->
+    <div
+      style="padding: 0px 0px; margin: 0px"
+      id="sketch-container"
+      class="position-fixed z-n100"
+    ></div>
+
+    <div class="container-fluid position-relative bg-transparent z-100">
+      <div
+        id="top"
+        class="container-fluid text-white"
+        style="padding: 3% 0%"
+      ></div>
+      <div  class="text-white" style="padding: 0px 50px">
+        <h1>Modular Extractions, 2022. </h1>
+        <h3>A piece on processes of extraction</h3>
+        <p>RealBodies - Ingrid @ Corsica Studios</p>
+        <div
+          style="
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+          "
+        >
+          <iframe
+            src="https://www.youtube.com/embed/9rfEAdvsTMc"
+            style="
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+              border: 0;
+            "
+            allowfullscreen
+            title="YouTube Video"
+          ></iframe>
+        </div>
+
+        <h2 id="heading"></h2>
+        <p>
+          Description of the club night - ‘Clubs are refracted spaces,
+          experienced by their visitors as serving a spectrum of functions. They
+          are places to converge and meld bodies into dance monstrosities. They
+          are the site of introspection, of a mindful hedonism, for an
+          individual alone in a smoking area. Or else they are safe spaces, a
+          room in which to comfortably self destruct.
+        </p>
+        
+        <p>
+          In-grid collective gathers a group of artists, musicians and creative
+          technologists to share work about the transmutational potential of the
+          club venue. In-grid.RealBodies is an evening which takes advantage of
+          the multiplicity of Corsica Studios, a respected venue in London’s
+          Elephant and Castle.&rsquo; Link to the event ticket page
+          <a href="https://ra.co/events/1519473">here</a>
+        </p>
+        <!-- <p>The piece I exhibited was a collaboration with computational artists George Simms and Yasmin Morgan. We were thinking about extraction processes and the physical/ human sides of extraction that is needed with AI. Using Kate Crawford&rsquo;s Atlas of AI as a guiding point, we started sculpting blender models of mining, proccessing and the output of resources. Contemplating the ethos of &lsquo;more&rsquo;, seen in the current political war in the ukraine to the billionaire space race to leave the planet in search of more. Always looking externally as opposed to inwardly, using what we have and processing our waste. This resource became the &lsquo;gloop&rsquo; that features in most of the models, filtering through the modular pipelines, using a randomised function to have a different combination of models each time, processing of gloop continues.</p> -->
+        <p>
+          Modular Extractions is a collaborative augmented reality piece,
+          delving into modular pipelines, the ethos of "more" and the physical
+          consequences and by-products of AI. Inspired by diagrams from Kate
+          Crawford's Atlas of AI, the work speculates on her figuring of AI
+          frameworks to imagine dynamics beyond these extractive pipelines. The
+          work itself creates new nodes from animated scenes in Blender, forming
+          a speculative infrastructure of playful methods to process our
+          technological gloop (data). Surrounding the creation were
+          conversations of human labour hidden by the clean white ethereal
+          aesthetic of AI and cloud technologies, these thoughts focused the
+          project on interpretation, intervention, and reformation.
+          <br />
+          In the original work generative selections of AR markers drew the
+          models from static symbols behind the desktop screen to something
+          slightly more tangible. Trapped between worlds, the markers move and
+          settle in random patterns, each cycle creating a new formation of the
+          pipeline. Through this generative mindset one can alter the looking
+          for 'more', (seen in the war against Ukraine, the space race to mars
+          etc.) to one of reuse and creativity, utilising what we have on this
+          planet and in our local environments.
+        </p>
+        <h2 id="documentation-of-the-process-and-the-night">
+          Documentation of the process and the night
+        </h2>
+
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-sm-4">
+              <img
+                class="img-fluid"
+                src="../../static/img/portfolio/Corsica/trim1.gif"
+                alt="The models"
+              />
+            </div>
+            <div class="col-sm-4">
+              <img
+                class="img-fluid"
+                src="../../static/img/portfolio/Corsica/Trim2All.gif"
+                alt="The models"
+              />
+            </div>
+            <div class="col-sm-4">
+              <img
+                class="img-fluid"
+                src="../../static/img/portfolio/Corsica/Setup.JPG" 
+                alt="Setup" 
+              />
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-sm-4">
+              <img
+                class="img-fluid"
+                src="../../static/img/portfolio/Corsica/Setup2.JPG" 
+                alt="Setup"
+              />
+            </div>
+            <div class="col-sm-4">
+              <img
+                class="img-fluid"
+                src="../../static/img/portfolio/Corsica/RealBodies.jpg"
+                alt="The piece in action"
+              />
+            </div>
+            <div class="col-sm-4">
+              <img
+                class="img-fluid"
+                src="../../static/img/portfolio/Corsica/CorsicAR.gif" 
+                alt="Poster" 
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
