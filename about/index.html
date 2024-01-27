@@ -17,8 +17,8 @@
       async
     ></script>
 
-    <script src="sketch.js"></script>
-    <script src="styles.css"></script>
+    <script src="../sketch.js"></script>
+    <script src="../styles.css"></script>
     <style>
       body {
         position: relative;
@@ -29,7 +29,7 @@
   <body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
     <nav class="navbar navbar-expand-sm navbar-dark fixed-top">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#home">Megan Benson</a>
+        <a class="navbar-brand" href="/">Megan Benson</a>
         <button
           type="button"
           class="navbar-toggler"
@@ -43,8 +43,8 @@
             <!-- <a href="#latestWork" class="nav-item nav-link active"
               >Latest work</a
             > -->
-            <a href="portfolio" class="nav-item nav-link">Portfolio</a>
-            <a href="about" class="nav-item nav-link">About</a>
+            <a href="..\portfolio" class="nav-item nav-link">Portfolio</a>
+            <a href="#" class="nav-item nav-link">About</a>
           </div>
           <!-- <div class="navbar-nav ms-auto">
             <a href="#" class="nav-item nav-link">Contact</a>
@@ -61,7 +61,7 @@
     ></div>
 
     <div class="container-fluid position-relative bg-transparent z-100">
-      <div id="home" class="text-white" style="padding: 25%"></div>
+      <!-- <div id="home" class="text-white" style="padding: 25%"></div> -->
 <!-- 
       <div
         id="latestWork"
@@ -77,7 +77,7 @@
             <div class="card">
               <img
                 class="card-img-top"
-                src="static\img\me.jpg"
+                src="..\static\img\me.jpg"
                 alt="Card image"
               />
               <div class="card-img-overlay">
@@ -92,7 +92,48 @@
         </div>
       </div> -->
 
-    
+      <div id="about" class="container-fluid text-white bg-transparent"
+      style="padding: 5% 0%">
+        <h1>About</h1>
+        <div class="row ">
+          <div class="col-sm-4  align-bottom">
+            <div class="card">
+              <img
+                class="card-img-top"
+                src="..\static\img\me.jpg"
+                alt="Card image"
+              />
+              <div class="card-img-overlay">
+                <!-- <h4 class="card-title">John Doe</h4>
+                    <p class="card-text">Some example text.</p> -->
+                <!-- <a href="#latestWork" class="btn btn-primary">LATEST WORK</a> -->
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-8  align-bottom">
+            <p>
+              Hello, I am an artist and software developer. 
+              
+              With a BSc in Digital Arts Computing, of Goldsmiths, UoL, and formal training in C# form 
+              Sparta Global Ltd. I've been a software developer for the same company for the last 2.5 years.
+              On the side, in effort to fuel the more tactile parts of my phsyche, I've been part of a london artist collective,
+              In.Grid, as well as dipping into my own practice of wire automata sculptures (mainly floral).
+
+              I have experience with the coding side (C# DotNet MVC with EF, Azure, some Automated Testing (selenium), React.js (using StoryBook, Jest, ESLint, SonarCloud), Git, ) and 
+              have experience of the more tactile (acrylic, goauche, oil paints, pottery, crochet, sewing, darning, weaving).
+              
+              To which arguably, the most fulfilled is when I can work on a project that feeds both sides, lending itself to projection mapping on sculptures, creating wearables, 3D printing
+              cams and cogs to build mobile sculptures, playful interactive art, blender models that are experienced through AR...
+            </p>
+            <p>
+              If this registers with you, let's talk! I'm looking for more experiences with the latter.
+
+              I can be found on <a href="https://www.instagram.com/megnbenson/">instagram</a>, or via email at meganbenson@outlook.com
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
   </body>
 </html>
