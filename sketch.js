@@ -4,7 +4,8 @@ function setup() {
   background(0);
   fill(255,50);
   textSize(20);
-  text('circle size controlled by how high you tap the screen', innerWidth/3, innerHeight/2-100);
+  textAlign(CENTER)
+  text('circle size controlled by how high you tap the screen', innerWidth/4, innerHeight/2-100,innerWidth/2);
 }
 
 function draw() {
