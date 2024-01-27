@@ -2,6 +2,9 @@ function setup() {
   let canvas = createCanvas(innerWidth-15, innerHeight-15);
   canvas.parent('sketch-container');
   background(0);
+  fill(255,50);
+  textSize(20);
+  text('circle size controlled by how high you tap the screen', innerWidth/3, innerHeight/2-100);
 }
 
 function draw() {
