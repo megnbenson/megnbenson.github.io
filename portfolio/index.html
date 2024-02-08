@@ -18,15 +18,10 @@
     ></script>
 
     <script src="../sketch.js"></script>
-    <script src="../styles.css"></script>
-    <style>
-      body {
-        position: relative;
-        background-color: black;
-      }
-    </style>
+    <link rel="stylesheet" href="../styles.css" />
   </head>
-  <body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
+  <body>
+    <div id="loader" class="z-100"></div>
     <nav class="navbar navbar-expand-sm navbar-dark fixed-top">
       <div class="container-fluid">
         <a class="navbar-brand" href="..\">Megan Benson</a>
@@ -41,14 +36,14 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <div class="navbar-nav">
             <!-- <a href="#latestWork" class="nav-item nav-link active"
-              >Latest work</a
-            > -->
+          >Latest work</a
+        > -->
             <a href="#" class="nav-item nav-link">Portfolio</a>
             <a href="..\about" class="nav-item nav-link">About</a>
           </div>
           <!-- <div class="navbar-nav ms-auto">
-            <a href="#" class="nav-item nav-link">Contact</a>
-          </div> -->
+        <a href="#" class="nav-item nav-link">Contact</a>
+      </div> -->
         </div>
       </div>
     </nav>
@@ -57,10 +52,13 @@
     <div
       style="padding: 0px 0px; margin: 0px"
       id="sketch-container"
-      class="position-fixed z-n100"
+      class="position-fixed"
     ></div>
 
-    <div class="container-fluid position-relative bg-transparent z-100 !pt-4">
+    <div
+      id="portfolio-container"
+      class="container-fluid position-relative bg-transparent !pt-4"
+    >
       <div
         id="portfolio"
         class="container-fluid text-white"
@@ -71,292 +69,232 @@
           <!-- COLUMN 1 -->
           <div class="col-sm-4">
             <div class="card mt-4 text-bg-dark">
-              <a href="chain">
-                <img
-                  class="card-img-top"
-                  src="..\static\img\portfolio\Chain\chainMain.gif"
-                  alt="Modular Extractions gif"
-              /></a>
-              <div class="card-body">
-                <!-- <h4 class="card-title"><a href="CorsicAR"> Modular Extractions, 2022.</a></h4> -->
-                <!-- <p class="card-text"> A piece on processes of extraction. Part of RealBodies - Ingrid @ Corsica Studios</p>
-                  <a href="#latestWork" class="btn btn-primary">LATEST WORK</a> -->
+              <img
+                class="card-img"
+                src="..\static\img\portfolio\Chain\chainMain.gif"
+                alt="Modular Extractions gif"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title"><a href="chain"> Chain, 2022</a></h5>
               </div>
             </div>
 
             <div class="card mt-4 text-bg-dark">
-              <a href="corsicAR">
-                <img
-                  class="card-img-top"
-                  src="..\static\img\portfolio\Corsica\CorsicAR.gif"
-                  alt="Modular Extractions gif"
-              /></a>
-              <div class="card-body">
-                <!-- <h4 class="card-title"><a href="CorsicAR"> Modular Extractions, 2022.</a></h4> -->
-                <!-- <p class="card-text"> A piece on processes of extraction. Part of RealBodies - Ingrid @ Corsica Studios</p>
-                  <a href="#latestWork" class="btn btn-primary">LATEST WORK</a> -->
+              <img
+                class="card-img"
+                src="..\static\img\portfolio\Corsica\CorsicAR.gif"
+                alt="Modular Extractions gif"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title">
+                  <a href="corsicAR"> Modular Extractions, 2022</a>
+                </h5>
               </div>
             </div>
 
             <div class="card mt-4 text-bg-dark">
-              <a href="beyondTheDepths">
-                <img
-                  class="card-img-top"
-                  src="..\static\img\portfolio\BeyondTheDepths\beyondTheDepths.png"
-                  alt="Piece titled, Beyond The Depths, 2019"
-              /></a>
-              <div class="card-body"></div>
+              <img
+                class="card-img-top"
+                src="..\static\img\portfolio\BeyondTheDepths\beyondTheDepths.png"
+                alt="Piece titled, Beyond The Depths, 2019"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title">
+                  <a href="beyondTheDepths"> Beyond The Depths, 2019</a>
+                </h5>
+              </div>
+            </div>
+
+            <div class="card mt-4 text-bg-dark painting">
+              <img
+                class="card-img-top"
+                src="../static/img/portfolio/Paint/painting (1).jpg"
+                alt="View from window"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title painting">View from window, 2023</h5>
+              </div>
+            </div>
+
+            <div class="card mt-4 text-bg-dark painting">
+              <img
+                class="card-img-top"
+                src="../static/img/portfolio/Paint/painting (3).heic"
+                alt="Michelle"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title painting">Michelle, 2023</h5>
+              </div>
+            </div>
+
+            <div class="card mt-4 text-bg-dark painting">
+              <img
+                class="card-img-top"
+                src="../static/img/portfolio/Paint/painting (5).jpg"
+                alt="View of Garden"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title painting">View of Garden, 2023</h5>
+              </div>
             </div>
           </div>
 
           <!-- COLUMN 2 -->
           <div class="col-sm-4">
             <div class="card mt-4 text-bg-dark">
-              <a href="tickTickBloom">
-                <img
-                  class="card-img-top"
-                  src="..\static\img\portfolio\Tree\landscapeFlower.gif"
-                  alt="Modular Extractions gif"
-              /></a>
-              <div class="card-body"></div>
-            </div>
-
-            <div class="card mt-4 text-bg-dark">
-              <a href="blossomBranch">
-                <img
-                  class="card-img-top"
-                  src="..\static\img\portfolio\BlossomBranch\blossomBranch.gif"
-                  alt="Piece titled, Blossom Branch, 2020"
-              /></a>
-              <div class="card-body"></div>
-            </div>
-
-            <!-- <div class="card mt-4 text-bg-dark">
-              <a href="BlossomBranch">
-                <img
-                  class="card-img-top"
-                  src="..\static\img\portfolio\LastSupper\lastSupper.jpg"
-                  alt="Piece titled, Last Supper, 2016"
+              <img
+                class="card-img-top"
+                src="..\static\img\portfolio\Tree\landscapeFlower.gif"
+                alt="Modular Extractions gif"
               />
-            </a>
-              <div class="card-body"></div>
-            </div> -->
-
-            <!-- <div class="card mt-4 text-bg-dark">
-              <a href="https://remotelatency.com/">
-                <img
-                  class="card-img-top"
-                  src="..\static\img\portfolio\Graphics\shaders.png"
-                  alt="Piece titled PATCH, 2018"
-              /></a>
-              <div class="card-body"></div>
-            </div> -->
-            <div class="card mt-4 text-bg-dark">
-              <a href="https://www.facebook.com/mmmeggggg/posts/1244975282253913">
-                <img
-                  class="card-img-top"
-                  src="..\static\img\portfolio\Foundation\panorama.jpg"
-                  alt="Gran's Garden, 2017"
-              />
-            </a>
-              <div class="card-body"></div>
+              <div class="card-img-overlay">
+                <h5 class="card-title">
+                  <a href="tickTickBloom"> Tick, Tick, Bloom, 2019</a>
+                </h5>
+              </div>
             </div>
 
             <div class="card mt-4 text-bg-dark">
-              <a href="peggy">
-                <img
-                  class="card-img-top"
-                  src="..\static\img\portfolio\Clay\PeggyWetCropped.jpg"
-                  alt="Piece titled, Peggy, 2015"
-              /></a>
-              <div class="card-body"></div>
+              <img
+                class="card-img-top"
+                src="..\static\img\portfolio\BlossomBranch\blossomBranch.gif"
+                alt="Piece titled, Blossom Branch, 2020"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title">
+                  <a href="blossomBranch"> Blossom Branch, 2020</a>
+                </h5>
+              </div>
+            </div>
+
+            <div class="card mt-4 text-bg-dark">
+              <img
+                class="card-img-top"
+                src="..\static\img\portfolio\Foundation\panorama.jpg"
+                alt="Gran's Garden, 2017"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title">
+                  <a
+                    href="https://www.facebook.com/mmmeggggg/posts/1244975282253913"
+                  >
+                    Gran's Garden, 20
+                  </a>
+                </h5>
+                <p class="card-text" id="extraText">(leads to facebook post)</p>
+              </div>
+            </div>
+
+            <div class="card mt-4 text-bg-dark">
+              <img
+                class="card-img-top"
+                src="..\static\img\portfolio\Clay\PeggyWetCropped.jpg"
+                alt="Piece titled, Peggy, 2015"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title"><a href="peggy"> Peggy, 2019</a></h5>
+              </div>
+            </div>
+
+            <div class="card mt-4 text-bg-dark painting">
+              <img
+                class="card-img-top"
+                src="../static/img/portfolio/Paint/painting (1).heic"
+                alt="Brother"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title painting">Brother, 2023</h5>
+              </div>
+            </div>
+
+            <div class="card mt-4 text-bg-dark painting">
+              <img
+                class="card-img-top"
+                src="../static/img/portfolio/Paint/painting (4).heic"
+                alt="Maddy"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title painting">Maddy, 2023</h5>
+              </div>
             </div>
           </div>
 
           <!-- COLUMN 3 -->
           <div class="col-sm-4">
             <div class="card mt-4 text-bg-dark">
-              <a href="tryAgain">
-                <img
-                  class="card-img-top"
-                  src="..\static\img\portfolio\Foundation\foundation.jpg"
-                  alt="Piece titled Try Again, 2017"
-              /></a>
+              <img
+                class="card-img-top"
+                src="..\static\img\portfolio\Foundation\foundation.jpg"
+                alt="Piece titled Try Again, 2017"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title">
+                  <a href="tryAgain"> Try Again, 2017</a>
+                </h5>
+              </div>
             </div>
 
             <div class="card mt-4 text-bg-dark">
-              <a href="https://remotelatency.com/">
-                <img
-                  class="card-img-top"
-                  src="..\static\img\portfolio\BlossomBranch/exhib.gif"
-                  alt="Remote Latency online exhibition"
-              /></a>
-              <div class="card-body"></div>
+              <img
+                class="card-img-top"
+                src="..\static\img\portfolio\BlossomBranch/exhib.gif"
+                alt="Remote Latency online exhibition"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title">
+                  <a href="https://remotelatency.com/"> Remote Latency, 2020</a>
+                </h5>
+                <p class="card-text" id="extraText">(leads to website)</p>
+              </div>
             </div>
             <div class="card mt-4 text-bg-dark">
-              <a href="isletTransplants/">
-                <img
-                  class="card-img-top"
-                  src="..\static\img\portfolio\Islets\isletsFinished.jpg"
-                  alt="Piece titled, islets, 2019"
-              /></a>
-              <div class="card-body"></div>
-            </div>
-            <!-- paint carousel -->
-            <div
-            id="carouselExampleIndicators"
-            class="carousel slide"
-            data-bs-ride="carousel"
-          >
-            <!-- <div class="carousel-indicators">
-              <button
-                type="button"
-                data-bs-target="#carouselExampleIndicators"
-                data-bs-slide-to="0"
-                class="active"
-                aria-current="true"
-                aria-label="Slide 1"
-              ></button>
-              <button
-                type="button"
-                data-bs-target="#carouselExampleIndicators"
-                data-bs-slide-to="1"
-                aria-label="Slide 2"
-              ></button>
-              <button
-                type="button"
-                data-bs-target="#carouselExampleIndicators"
-                data-bs-slide-to="2"
-                aria-label="Slide 3"
-              ></button>
-            </div> -->
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <img
-                  src="../static/img/portfolio/Paint/painting (5).heic"
-                  class="d-block w-100"
-                  alt="Cat in a spoon"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  src="../static/img/portfolio/Paint/painting (1).heic"
-                  class="d-block w-100"
-                  alt="Brother"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  src="../static/img/portfolio/Paint/painting (1).jpg"
-                  class="d-block w-100"
-                  alt="View from window"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  src="../static/img/portfolio/Paint/painting (2).heic"
-                  class="d-block w-100"
-                  alt="Sunset"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  src="../static/img/portfolio/Paint/painting (2).jpg"
-                  class="d-block w-100"
-                  alt="Train Street, Vietnam"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  src="../static/img/portfolio/Paint/painting (3).heic"
-                  class="d-block w-100"
-                  alt="Michelle"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  src="../static/img/portfolio/Paint/painting (3).jpg"
-                  class="d-block w-100"
-                  alt="Iggy"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  src="../static/img/portfolio/Paint/painting (4).heic"
-                  class="d-block w-100"
-                  alt="Maddy"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  src="../static/img/portfolio/Paint/painting (5).jpg"
-                  class="d-block w-100"
-                  alt="View of Garden"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  src="../static/img/portfolio/Paint/painting (6).heic"
-                  class="d-block w-100"
-                  alt="Me, Injured"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  src="../static/img/portfolio/Paint/painting (6).jpg"
-                  class="d-block w-100"
-                  alt="View of Garden"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  src="../static/img/portfolio/Paint/painting (7).heic"
-                  class="d-block w-100"
-                  alt="Orchestra"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  src="../static/img/portfolio/Paint/painting (8).heic"
-                  class="d-block w-100"
-                  alt="Sunflowers"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  src="../static/img/portfolio/Paint/painting (9).heic"
-                  class="d-block w-100"
-                  alt="Two Vices"
-                />
-              </div>
-              <div class="carousel-item">
-                <img
-                  src="../static/img/portfolio/Paint/painting (11).heic"
-                  class="d-block w-100"
-                  alt="Copy of cat"
-                />
+              <img
+                class="card-img-top"
+                src="..\static\img\portfolio\Islets\isletsFinished.jpg"
+                alt="Piece titled, islets, 2019"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title">
+                  <a href="isletTransplants"> Islets, 2019</a>
+                </h5>
+                <p class="card-text" id="extraText">
+                  (exhibited New Scientist Live, 2019)
+                </p>
               </div>
             </div>
-            <button
-              class="carousel-control-prev"
-              type="button"
-              data-bs-target="#carouselExampleIndicators"
-              data-bs-slide="prev"
-            >
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Previous</span>
-            </button>
-            <button
-              class="carousel-control-next"
-              type="button"
-              data-bs-target="#carouselExampleIndicators"
-              data-bs-slide="next"
-            >
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Next</span>
-            </button>
-          </div>
-           
+
+            <div class="card mt-4 text-bg-dark painting">
+              <img
+                class="card-img-top"
+                src="../static/img/portfolio/Paint/painting (5).heic"
+                alt="Cat in spoon"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title painting">Cat in spoon, 2023</h5>
+              </div>
+            </div>
+
+            <div class="card mt-4 text-bg-dark painting">
+              <img
+                class="card-img-top"
+                src="../static/img/portfolio/Paint/painting (2).jpg"
+                alt="Train Street, Vietnam"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title painting">Train Street, Vietnam</h5>
+              </div>
+            </div>
+
+            <div class="card mt-4 text-bg-dark painting">
+              <img
+                class="card-img-top"
+                src="../static/img/portfolio/Paint/painting (3).jpg"
+                alt="Iggy"
+              />
+              <div class="card-img-overlay">
+                <h5 class="card-title painting">Iggy, 2022</h5>
+              </div>
+            </div>
           </div>
         </div>
       </div>
