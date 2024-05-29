@@ -3,9 +3,9 @@ function setup() {
   canvas.parent('sketch-container');
   background(0);
   fill(255,50);
-  textSize(20);
-  textAlign(CENTER)
-  text('hi there, welcome to my portfolio, bit dusty in here apologies, have a rifle through my work, otherwise tap about a bit...', innerWidth/4, innerHeight/2-100,innerWidth/2);
+  // textSize(20);
+  // textAlign(CENTER)
+  // text('hi there, welcome to my portfolio, have a rifle through my work, otherwise tap about a bit...', innerWidth/4, innerHeight/2-100,innerWidth/2);
 }
 let size = 3;
 let direction = 1;
