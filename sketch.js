@@ -1,7 +1,12 @@
 function setup() {
   let canvas = createCanvas(innerWidth-15, innerHeight-15);
   canvas.parent('sketch-container');
-  background(0);
+  background(217, 237, 191);
+
+  //orange - (255,152,0)
+  //teal - (44,120,101)
+  //green - (144,210,109)
+
   fill(255,50);
   // textSize(20);
   // textAlign(CENTER)
@@ -11,7 +16,7 @@ let size = 3;
 let direction = 1;
 function draw() {
   if(millis() % 345 ==0){
-    background(0);
+    background(217, 237, 191);
     direction = direction * -1;
   }
   // Get a gaussian random number w/ mean of 0 and standard deviation of 1.0
@@ -23,7 +28,7 @@ function draw() {
 
   noStroke();
   let mouseCol = map(mouseY,0,innerHeight,0,255)
-  colour = color(mouseCol/2, mouseCol, mouseCol,10)
+  colour = color(mouseCol, 152, 0, 10)
   fill(mouseCol/2, mouseCol, mouseCol, 10);
   // ellipse(x, height/2, mouseCol/2, mouseCol/2);   // Draw an ellipse at our "normal" random location
 
@@ -31,7 +36,7 @@ function draw() {
 }
 
 function circles() {
-  stroke(map(size,0,innerWidth+13, 100, 255).toFixed(0),map(size,innerWidth,0, 213, 26).toFixed(0),30);
+  stroke(color(44,120,101),30);
   fill(colour);
   size+=direction;
   ellipse(mouseX,mouseY,size,size);
