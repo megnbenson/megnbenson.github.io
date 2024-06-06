@@ -10,8 +10,14 @@ h1,
 
 .pageContainer{
   padding: 50px 50px; 
-  background-color: rgb(217, 237, 191) !important;
   border-radius: 0.25rem;
+}
+
+.pageContainer p span,
+.pageContainer li span{
+  /* padding: 0.01rem; */
+  border-radius: 0.25rem;
+  background-color: rgb(217, 237, 191,0.7) !important;
 }
 
 .navButtons,
