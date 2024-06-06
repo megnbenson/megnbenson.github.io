@@ -8,6 +8,14 @@ h1,
   color: #FF9800; /*#FF9800 #2C7865 #90D26D*/
 }
 
+.pageContainer a {
+  color: #2C7865; /*#FF9800 #2C7865 #90D26D*/
+}
+
+.pageContainer a:hover {
+  color: #FF9800; /*#FF9800 #2C7865 #90D26D*/
+}
+
 .pageContainer{
   padding: 50px 50px; 
   border-radius: 0.25rem;
