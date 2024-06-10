@@ -50,6 +50,10 @@ h1{
   margin: 3px;
 }
 
+img {
+  min-height: 5rem;
+}
+
 .card-img-overlay img {
    position: relative;
    width: 100%;
